@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_santoni.mk
+    $(LOCAL_DIR)/future_santoni.mk
