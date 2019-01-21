@@ -34,3 +34,4 @@ BUILD_FINGERPRINT := "Xiaomi/santoni/santoni:7.1.2/N2G47H/V9.5.10.0.NAMMIFD:user
 
 # Official FutureOS
 FUTURE_BUILD_TYPE := Official
+FUTURE_MAINTAINER := SankarPSPK
