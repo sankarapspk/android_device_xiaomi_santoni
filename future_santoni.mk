@@ -1,5 +1,4 @@
 #
-# Copyright (C) 2017 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -16,7 +15,7 @@
 
 $(call inherit-product, device/xiaomi/santoni/full_santoni.mk)
 
-# Inherit some common LineageOS stuff.
+# Inherit some common FutureOS stuff.
 $(call inherit-product, vendor/future/config/common.mk)
 
 PRODUCT_DEVICE := santoni
